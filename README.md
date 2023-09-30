@@ -2,7 +2,9 @@
 # How to host a  static website on AWS S3
 
 In this project i deployed a static website usingthe Amazon S3.
-### **Let's get started**
+
+**Let's get started**
+
 We are going to host a static website built with HTML, CSS and Java Script on S3 
 
 **Step 1** 
